@@ -25,7 +25,12 @@ export default function ProductSection(){
               <div className="min-w-[300px] md:min-w-[350px] bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-shadow">
                 <div className="p-6 flex flex-col h-full">
                   <div className="relative h-48 mb-4">
-                    <Image src="/images/Lavender.png" alt="Lavender Essential Oil" fill className="object-contain" />
+                    <Image 
+                      src="/images/Lavender.png" 
+                      alt="Lavender Essential Oil" 
+                      fill 
+                      className="object-contain" 
+                    />
                     <Badge className="absolute top-2 right-2 bg-amber-100 text-amber-800 hover:bg-amber-200">
                       Best Seller
                     </Badge>
@@ -52,7 +57,12 @@ export default function ProductSection(){
               <div className="min-w-[300px] md:min-w-[350px] bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-shadow">
                 <div className="p-6 flex flex-col h-full">
                   <div className="relative h-48 mb-4">
-                    <Image src="/images/Peppermint.png" alt="Peppermint Essential Oil" fill className="object-contain" />
+                    <Image 
+                      src="/images/Peppermint.png" 
+                      alt="Peppermint Essential Oil" 
+                      fill 
+                      className="object-contain" 
+                    />
                     <Badge className="absolute top-2 right-2 bg-emerald-100 text-emerald-800 hover:bg-emerald-200">
                       Popular
                     </Badge>
@@ -80,7 +90,7 @@ export default function ProductSection(){
                 <div className="p-6 flex flex-col h-full">
                   <div className="relative h-48 mb-4">
                     <Image
-                      src="/images/frank.png"
+                      src="/images/Frank.png"
                       alt="Frankincense Essential Oil"
                       fill
                       className="object-contain"
@@ -111,7 +121,12 @@ export default function ProductSection(){
               <div className="min-w-[300px] md:min-w-[350px] bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-shadow">
                 <div className="p-6 flex flex-col h-full">
                   <div className="relative h-48 mb-4">
-                    <Image src="/images/Lemon.png" alt="Lemon Essential Oil" fill className="object-contain" />
+                    <Image 
+                      src="/images/Lemon.png" 
+                      alt="Lemon Essential Oil" 
+                      fill 
+                      className="object-contain" 
+                    />
                     <Badge className="absolute top-2 right-2 bg-amber-100 text-amber-800 hover:bg-amber-200">
                       Best Seller
                     </Badge>
